@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "graphics.h": "c",
+        "stdio.h": "c",
+        "iostream": "cpp"
+    },
+    "cSpell.words": [
+        "closegraph",
+        "initgraph",
+        "initwindow"
+    ]
+}
