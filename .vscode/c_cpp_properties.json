@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\Programming\\Compilers OR Interpreters\\TDM GCC 32 bit\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\Programming\\Compilers OR Interpreters\\TDM GCC 32 bit\\bin\\g++"
+        }
+    ],
+    "version": 4
+}
